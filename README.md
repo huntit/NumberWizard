@@ -1,4 +1,4 @@
 # NumberWizard
 ## Udemy tutorial test repository
 
-Repo for testing Gihub colloboration with Unity.
+Repo for testing Github collaboration with Unity.
