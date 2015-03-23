@@ -16,6 +16,7 @@ public class NumberWizard : MonoBehaviour {
 		print ("Choose a number between " + min + " and " + max + ".");
 		print ("Good luck !!");
 		print ("May lady luck (and logic) have mercy on your soul...");
+		print ("This is from the Peter branch");
 
 	}
 	
