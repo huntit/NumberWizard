@@ -14,6 +14,7 @@ public class NumberWizard : MonoBehaviour {
 		print ("The highest number you can pick is " + max + ".");
 		print ("The lowest number you can pick is " + min + ".");
 		print ("Choose a number between " + min + " and " + max + ".");
+		print ("Good luck !!");
 	}
 	
 	// Update is called once per frame
