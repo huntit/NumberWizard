@@ -151,7 +151,7 @@ GameObject:
   - 4: {fileID: 1908274106}
   - 114: {fileID: 1908274105}
   m_Layer: 0
-  m_Name: NumberWizard
+  m_Name: PNumberWizard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
